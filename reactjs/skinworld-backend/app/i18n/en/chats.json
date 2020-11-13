@@ -1,0 +1,6 @@
+{
+	"senderNotExist": "Sender does not exists",
+	"InvalidParticipantId": "Invalid participant id",
+	"participants": "Participant is required",
+  "messageNotExist": "Message does not exists"
+}

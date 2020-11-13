@@ -1,0 +1,2 @@
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"c7whNGBPV9q8q3dmAAAA"}}
+{"level":"error","message":"Internal Server Error","meta":{"context":"DEFAULT","exitCode":"SIGINT"}}

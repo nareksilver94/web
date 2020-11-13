@@ -1,0 +1,63 @@
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"06LJ38t6xV8BQ1PnAAAA"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"Yb5Nv1VI1Y1TnEAEAAAB"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"mX8USs0j6gR1Uri_AAAA"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"jtxIEOfoKCxdMJEVAAAA"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"_xAjsdgIfosBkdc2AAAA"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"9jPHVeWY3_mtIQUqAAAA"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"pW0YfUIzMu9nKkmHAAAB"}}

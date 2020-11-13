@@ -1,0 +1,9 @@
+html, body, #root, #root>div {
+  height: 100%;
+  font-family: 'Ubuntu', sans-serif;
+  background: #fafafa;
+  color: #acb3c3;
+}
+body {
+  margin: 0
+}

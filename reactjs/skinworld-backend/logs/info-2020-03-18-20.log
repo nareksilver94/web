@@ -1,0 +1,20 @@
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"dgLHvOibtu2Tx-J0AAAD"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"WQP5alyCXBCPW9rNAAAE"}}
+{"level":"info","message":"Site items are added by 5e5a2970dbc71d26cee55acc","meta":{"context":"DEFAULT","user":"5e5a2970dbc71d26cee55acc","MODULE_NAME":"INVENTORY_CREATE","assetIds":["123456"]}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"PM-g3wHAeekZOni4AAAF"}}
+{"level":"info","message":"Site items are added by 5e5a2970dbc71d26cee55acc","meta":{"context":"DEFAULT","user":"5e5a2970dbc71d26cee55acc","MODULE_NAME":"INVENTORY_CREATE","assetIds":["123456"]}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"W77QllBwRpHsur8oAAAG"}}
+{"level":"info","message":"Site items are added by 5e5a2970dbc71d26cee55acc","meta":{"context":"DEFAULT","user":"5e5a2970dbc71d26cee55acc","MODULE_NAME":"INVENTORY_CREATE","assetIds":["123456"]}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"rwAs1K333hA8M6VyAAAH"}}
+{"level":"info","message":"Site items are added by 5e5a2970dbc71d26cee55acc","meta":{"context":"DEFAULT","user":"5e5a2970dbc71d26cee55acc","MODULE_NAME":"INVENTORY_CREATE","assetIds":["123456"]}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"widrrf8cJOnC0WX3AAAI"}}
+{"level":"info","message":"Site items are added by 5e5a2970dbc71d26cee55acc","meta":{"context":"DEFAULT","user":"5e5a2970dbc71d26cee55acc","MODULE_NAME":"INVENTORY_CREATE","assetIds":["123456"]}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"GZ5CT6H3beXdKuI4AAAJ"}}
+{"level":"info","message":"Site items are added by 5e5a2970dbc71d26cee55acc","meta":{"context":"DEFAULT","user":"5e5a2970dbc71d26cee55acc","MODULE_NAME":"INVENTORY_CREATE","assetIds":["123456"]}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"klC7o6B9kn2LwXYrAAAK"}}
+{"level":"info","message":"Site items are added by 5e5a2970dbc71d26cee55acc","meta":{"context":"DEFAULT","user":"5e5a2970dbc71d26cee55acc","MODULE_NAME":"INVENTORY_CREATE","assetIds":["31231"]}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"4BMNnqIgrFcsGj8aAAAL"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}

@@ -1,0 +1,14 @@
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"error","message":"Mongodb connection error = Error: `[object Object]` is an invalid option.","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Steam logged on","meta":{"context":"DEFAULT","MODULE_NAME":"STEAM","details":{"client_supplied_steamid":"76561198812985971","ip_country_code":"US"}}}
+{"level":"info","message":"Logged in steam account","meta":{"context":"DEFAULT","steamId":{"universe":1,"type":1,"instance":1,"accountid":852720243},"MODULE_NAME":"STEAM"}}
+{"level":"error","message":"Internal Server Error","meta":{"context":"DEFAULT","exitCode":"SIGINT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"error","message":"Mongodb connection error = Error: `[object Object]` is an invalid option.","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Steam logged on","meta":{"context":"DEFAULT","MODULE_NAME":"STEAM","details":{"client_supplied_steamid":"76561198812985971","ip_country_code":"US"}}}
+{"level":"info","message":"Logged in steam account","meta":{"context":"DEFAULT","steamId":{"universe":1,"type":1,"instance":1,"accountid":852720243},"MODULE_NAME":"STEAM"}}
+{"level":"error","message":"Internal Server Error","meta":{"context":"DEFAULT","exitCode":"SIGINT"}}

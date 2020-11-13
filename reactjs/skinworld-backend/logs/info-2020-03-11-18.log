@@ -1,0 +1,90 @@
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"i0h8wSAMFcfJFsVzAAAA"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"4dCIPcqoz4rea4rjAAAA"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"htoqs_sajhy4jni_AAAA"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"x7OaI10YGDEeNU-0AAAA"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"_OXUnS73QE_Q7FkYAAAB"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"p7KGVN-qObQ00LFNAAAC"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"_suoO0ZhWP1jVNmcAAAD"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"JECi06NLceuWTRLCAAAE"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"e8IGFh0cy3AFjxB1AAAF"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"_La_fLyKqLqLNPLxAAAG"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"uSd3XuLzDHkLEBtYAAAH"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"G2jUc8Vz4YKwJroBAAAI"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"zd8yZtYuwFqbdUDUAAAJ"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"QBt4jGT_WSA6C_G3AAAK"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"vWiAzddyl6vA7JJoAAAL"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"cbk3BkE-_FXSRREPAAAM"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"AU02nQYjllaZpGnaAAAN"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"wdLV-sD_X97PaOErAAAO"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"ZVvVQTuKfijgmpvPAAAP"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"sJr_0Tdg_f1weu2uAAAQ"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"-yLrvn9C5Q-uelmhAAAR"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"iedO56CZF2g-vFn9AAAS"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"7dH6F-yLH-Z5sNR4AAAT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"J_nXVBy6J94hXmB6AAAU"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"Zb1zecfpEsg5o1CoAAAV"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"gDvPnRYrVY6GHOEXAAAW"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"f5R4k_cXzgRfAi7XAAAX"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"wrkxq-syEzjTH-3qAAAY"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"nBzCldTdj5avVdaxAAAZ"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"lOooIES6q48yZpu7AAAa"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"E4SfQ8OTCWUXv5p0AAAb"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"XOu5D5luH3yeUl3cAAAc"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"cvYRLH6G6MndkqgMAAAd"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"oyYkGIrOL-1d-v8iAAAe"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"PfPxPb4AQulyBFJfAAAf"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"fOHN1rCup_aIb-xpAAAg"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"FnossbGSOJqJA_4zAAAh"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"NQulCfeXTUgF2tByAAAi"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"b38n5tvh81SQLq9EAAAj"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"2liYB5fzgpKnOZbDAAAk"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"oA5OkDJMx81SemorAAAA"}}
+{"level":"info","message":"Internal Server Error","meta":{"context":"DEFAULT","error":{}}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"SU-zNy6acIngWxzFAAAB"}}
+{"level":"info","message":"Internal Server Error","meta":{"context":"DEFAULT","error":{}}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"3qOBT5BED-5Xq-SFAAAA"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"m4mpAzEgx61uNwMTAAAB"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"cfL6OMQhUSsm66ERAAAC"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"zxUnTEo5iavGWSvUAAAD"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"spnCVheuxCTsTRYoAAAE"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"hywUMXY07jkPrzFKAAAF"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"ZT9bNRIyh8nR_hZoAAAG"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"8nLyYuHzYqTd8ePNAAAH"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"WMKwAD5eO8x5DqgdAAAA"}}
+{"level":"error","message":"Get Site Inventory Error","meta":{"context":"DEFAULT","MODULE_NAME":"INVENTORY_CREATE","query":{"isDisabled":{"$ne":true}},"message":"Case is not defined","stack":"ReferenceError: Case is not defined\n    at Object.getSiteInventory (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/modules/inventory/get.js:9:17)\n    at router.get (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/routes/site-inventory.js:104:44)\n    at Layer.handle [as handle_request] (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/route.js:137:13)\n    at Joi.validate (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/middleware/validator.js:23:7)\n    at internals.Object._validateWithOptions (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/joi/lib/types/any/index.js:767:20)\n    at module.exports.internals.Any.root.validate (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/joi/lib/index.js:147:23)\n    at /media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/middleware/validator.js:22:9\n    at Layer.handle [as handle_request] (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/route.js:137:13)\n    at verifyToken.then (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/middleware/auth-handler.js:42:7)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","name":"ReferenceError"}}

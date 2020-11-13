@@ -1,0 +1,14 @@
+{
+  "caseArrayInvalid": "Invalid cases selected",
+  "userCountInvalid": "User count should be between {{min}} ~ {{max}}",
+  "notExists": "Battle not found",
+  "notCompleted": "Battle is not completed",
+  "startedOrCompleted": "Battle is started or completed",
+  "noSeat": "There is no seat for this battle",
+  "alreadyJoined": "You've already joined in this battle",
+  "notJoined": "You didn't joined in this battle",
+  "enoughBalance": "You don't have enough balance for this battle",
+  "notOwner": "You don't have permission",
+  "cancelled": "Battle was cancelled",
+  "unboxingFailed": "Failed to unbox"
+}

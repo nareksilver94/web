@@ -1,0 +1,10 @@
+{
+	"rewardClaimed": "تم الحصول على المكافأة بالفعل",
+	"wrongAccessToken": "رمز وصول خاطئ",
+	"claimedDiscord": "لقد حصل مستخدم آخر بالفعل على حساب ديسكورد هذا",
+	"notJoinDiscordServer": "لم يسبق للمستخدم الانضمام إلى خادم موقع ديسكورد",
+	"signedRequest": "مطلوب طلب موقع",
+	"accessToken": "مطلوب رمز وصول",
+	"oauthToken": "مطلوب رمز قسم",
+	"oauthVerifier": "مطلوب مدقق يمين"
+}

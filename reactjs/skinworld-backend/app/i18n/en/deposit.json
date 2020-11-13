@@ -1,0 +1,19 @@
+{
+	"giftCardRedeemed": "Gift card already redeemed",
+	"activatedCode": "Activated code",
+	"invalidCode": "Invalid code",
+	"wrongTradeURLFormat": "Wrong Trade URL format",
+  "appId": "AppId is required",
+  "contextId": "ContextId id is required",
+  "assetId": "AssetId is required",
+  "amount": "Amount is required",
+  "tradeUrl": "TradeUrl is required",
+  "promocode": "Promocode is required",
+  "giftcard": "Giftcard is required",
+  "depositAmount": "DepositAmount is required",
+  "transactionId": "TransactionId is required",
+  "userOrderId": "UserOrderId is required",
+  "amount": "Amount is required",
+  "hash": "Hash is required",
+  "depositSuccess": "{{type}} deposit success. ${{value}} added to your account"
+}

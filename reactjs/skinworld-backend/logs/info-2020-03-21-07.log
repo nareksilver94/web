@@ -1,0 +1,10 @@
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"error","message":"Get users error","meta":{"context":"DEFAULT","MODULE_NAME":"USER_GET","message":"Unrecognized expression '$push'","stack":"MongoError: Unrecognized expression '$push'\n    at Connection.<anonymous> (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/mongodb-core/lib/connection/pool.js:443:61)\n    at Connection.emit (events.js:198:13)\n    at Connection.EventEmitter.emit (domain.js:448:20)\n    at processMessage (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/mongodb-core/lib/connection/connection.js:364:10)\n    at Socket.<anonymous> (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/mongodb-core/lib/connection/connection.js:533:15)\n    at Socket.emit (events.js:198:13)\n    at Socket.EventEmitter.emit (domain.js:448:20)\n    at addChunk (_stream_readable.js:288:12)\n    at readableAddChunk (_stream_readable.js:269:11)\n    at Socket.Readable.push (_stream_readable.js:224:10)\n    at TCP.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)","name":"MongoError"}}
+{"level":"error","message":"Internal Server Error","meta":{"context":"DEFAULT","exitCode":"SIGINT"}}

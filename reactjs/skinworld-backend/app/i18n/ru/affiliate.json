@@ -1,0 +1,11 @@
+{
+  "codeApplied": "Реферальный код уже применен",
+  "codeNotExist": "Referral code doesn't exist",
+  "refUserAccountDisabled": "Referred user account disabled",
+  "cantOwnRefCode": "You can't use your own referral code",
+  "referredBy": "You've been referred by {{name}}",
+  "refer": "You've referred {{name}}",
+  "codeTaken": "Referral code already taken",
+  "newReferralFee": "You have new referral fee {{fee}} from {{name}}",
+  "redeemEarning": "You have claimed {{value}} in affiliate earnings"
+}

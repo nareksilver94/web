@@ -1,0 +1,10 @@
+{
+  "serverError": "خطأ في الخادم برجاء المحاولة لاحقًا",
+  "noEntryChanged": "لم يتم تغيير بيانات",
+  "accessDenied": "دخول مرفوض",
+  "notExistDicSession": "جلسة لعب حجر النرد غير موجودة",
+  "changeSpeed": "يمكنك تغيير البداية فقط قبل بدء لعب حجر النرد",
+  "diceSessionClosed": "لقد انتهت جلسة لعب حجر النرد",
+  "diceSessionNotClosed": "لم تنته جلسة لعب حجر النرد بعد",
+  "notExistDice": "لا يوجد حجر نرد"
+}

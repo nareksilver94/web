@@ -1,0 +1,10 @@
+{
+	"notFindAppKey": "Can't find such app key",
+	"steamAccount": "User should link Steam account first",
+	"tradeURL": "User should provide Trade URL first",
+	"notFetchInventory": "Couldn't fetch inventory from steam",
+	"notUpdateTradeURL": "Couldn't update trade URL",
+	"notCreateTradeOffer": "Couldn't create trade offer",
+	"unknownWrongGetPrice": "Something went wrong while getting price data",
+	"notFindAppKey": "Can't find app key"
+}

@@ -1,0 +1,10 @@
+{
+	"rewardClaimed": "Reward already claimed",
+	"wrongAccessToken": "Wrong access token",
+	"claimedDiscord": "Another user already claimed that Discord account",
+	"notJoinDiscordServer": "User did not join Discord server",
+	"signedRequest": "SignedRequest is required",
+	"accessToken": "AccessToken is required",
+	"oauthToken": "OauthToken is required",
+	"oauthVerifier": "OauthVerifier is required"
+}

@@ -1,0 +1,11 @@
+{
+  "codeApplied": "تم تطبيق رمز الإحالة بالفعل",
+  "codeNotExist": "لا يوجد رمز إحالة",
+  "refUserAccountDisabled": "تم تعطيل حساب مستخدم بالإحالة",
+  "cantOwnRefCode": "لا يمكنك استخدام رمز الإحالة الخاص بك",
+  "referredBy": " {{name}}تمت إحالتك بواسطة ",
+  "refer": "لقد قمت بإحالة {{name}}",
+  "codeTaken": "رمز الإحالة مستخدم بالفعل",
+  "newReferralFee": "لديك عمولة إحالة جديدة {{fee}} من {{name}}",
+  "redeemEarning": "لقد جنيت {{value}} من قيمة مكاسب العمولة"
+}

@@ -1,0 +1,64 @@
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"R8C92yAC5Si4hoCKAAAA"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"GY5VcHSn7Hto7PEDAAAB"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"59PR_2yqRSsla2RKAAAC"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"YOBEOkVVbmAbgczWAAAD"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"mq2Qfg7b4ZVmKREGAAAE"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"X0egU4XfiDmGlKusAAAA"}}
+{"level":"error","message":"Get Transaction error","meta":{"context":"DEFAULT","MODULE_NAME":"TRANSACTION_GET","message":"User is not defined","stack":"ReferenceError: User is not defined\n    at Object.getTransactions (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/modules/transactions/get.js:50:17)\n    at router.get (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/routes/transactions.js:71:46)\n    at Layer.handle [as handle_request] (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/route.js:137:13)\n    at verifyToken.then (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/middleware/auth-handler.js:42:7)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","name":"ReferenceError"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"H-ZVsII_vLBgSp1JAAAA"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"error","message":"Get Transaction error","meta":{"context":"DEFAULT","MODULE_NAME":"TRANSACTION_GET","message":"__query.lean is not a function","stack":"TypeError: __query.lean is not a function\n    at Object.getTransactions (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/modules/transactions/get.js:62:32)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","name":"TypeError"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"AFIx-eMCXnpK8VkdAAAA"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"roqojTcsxYlG_ZnKAAAB"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"TBPWegxo9cFrhwhGAAAC"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"S2oUp5MPUtvclpwCAAAD"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"KF74bfxZeO-MFfe5AAAE"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"ffW1YICO5QmhsRKoAAAA"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"HPFrvE58dtRUQwHOAAAB"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"b84zsg9N1KM8OISwAAAC"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"7jjDhJI31eSYLOLpAAAA"}}
+{"level":"error","message":"Get Transaction error","meta":{"context":"DEFAULT","MODULE_NAME":"TRANSACTION_GET","message":"__query.lean is not a function","stack":"TypeError: __query.lean is not a function\n    at Object.getTransactions (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/modules/transactions/get.js:63:32)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","name":"TypeError"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"MqYWMo2OrOjFQwxIAAAA"}}
+{"level":"error","message":"Get Transaction error","meta":{"context":"DEFAULT","MODULE_NAME":"TRANSACTION_GET","message":"__query.lean is not a function","stack":"TypeError: __query.lean is not a function\n    at Object.getTransactions (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/modules/transactions/get.js:64:32)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","name":"TypeError"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"SXJfwzcv58iCqdtxAAAA"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"hgPuFgqXawDQe7DbAAAB"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"-lezPlaTbJyQIcTEAAAC"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"JBJWC1A5CiogUrNfAAAD"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"ZLFd0BAY7gc1r31AAAAE"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"RG7c2nwMSySgSc3vAAAF"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"cJYyf6spSyl8PjWIAAAG"}}

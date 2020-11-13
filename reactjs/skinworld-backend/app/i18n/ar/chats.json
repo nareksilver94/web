@@ -1,0 +1,6 @@
+{
+	"senderNotExist": "الراسل غير موجود",
+	"InvalidParticipantId": "هوية المشارك غير صالحة",
+	"participants": "اسم المشارك مطلوب",
+  "messageNotExist": "لا توجد رسالة"
+}

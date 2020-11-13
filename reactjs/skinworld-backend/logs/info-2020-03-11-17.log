@@ -1,0 +1,31 @@
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"4Ezs8XvoBKlhiN_iAAAI"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"IpX2zYT7SBUyb-dOAAAJ"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"35BrhuR7geSdh6NwAAAK"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"YR1XHKE2YB3BGXhRAAAL"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"QrymdFEDKV5TzaM4AAAM"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"kgrP43ODCP-JA7MEAAAN"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"GekbhNs-oYxctKFfAAAO"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"wauCNo8boX0wrEGkAAAP"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"pKcft0Bu4SDcSmw0AAAQ"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"eve-9vwEAd9pYrYkAAAR"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"fY_h5bI-UkVNivteAAAS"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"LJLC4L70dFfFDrWqAAAT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"MqzBdfAXOYOkULC_AAAU"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"k9VfT8lwVabv2DwYAAAV"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"Gav06QtKdFx70txWAAAW"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"dfmAxf3I-MykfS4DAAAX"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"_rQdfW82w76BObOgAAAY"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"x9OvPHzxHfXQtE6oAAAZ"}}
+{"level":"error","message":"Internal Server Error","meta":{"context":"DEFAULT","exitCode":"SIGINT"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"8S-iHSCVZetpl139AAAA"}}
+{"level":"error","message":"Get users error","meta":{"context":"DEFAULT","MODULE_NAME":"USER_GET","message":"User.paginate is not a function","stack":"TypeError: User.paginate is not a function\n    at Object.getUsers (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/modules/users/get.js:108:23)\n    at router.get (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/routes/users.js:176:37)\n    at Layer.handle [as handle_request] (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/route.js:137:13)\n    at /media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/middleware/role-handler.js:17:5\n    at Layer.handle [as handle_request] (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/route.js:137:13)\n    at verifyToken.then (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/middleware/auth-handler.js:42:7)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","name":"TypeError"}}
+{"level":"info","message":"Establishing mongodb connection...","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Socket Server opened at port 8001","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET"}}
+{"level":"info","message":"Server is running on port","meta":{"context":"DEFAULT","port":"8000"}}
+{"level":"info","message":"Mongodb connection established","meta":{"context":"DEFAULT"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"ZyJBjs71nFzseCe9AAAA"}}
+{"level":"error","message":"Get users error","meta":{"context":"DEFAULT","MODULE_NAME":"USER_GET","message":"__query.push is not a function","stack":"TypeError: __query.push is not a function\n    at Object.getUsers (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/modules/users/get.js:100:15)\n    at router.get (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/routes/users.js:176:37)\n    at Layer.handle [as handle_request] (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/route.js:137:13)\n    at /media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/middleware/role-handler.js:17:5\n    at Layer.handle [as handle_request] (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/node_modules/express/lib/router/route.js:137:13)\n    at verifyToken.then (/media/wayne/Work/Work/work2020/scraping/Jose/skinworld-backend/app/middleware/auth-handler.js:42:7)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","name":"TypeError"}}

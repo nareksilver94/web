@@ -1,0 +1,9 @@
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"fiQy_9PFu8jizYrNAAAI"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"fS2NQgTDOrXLJEWtAAAJ"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"xJRapspZ6KLKgS3KAAAK"}}
+{"level":"info","message":"Internal Server Error","meta":{"context":"DEFAULT","error":{"name":"BadRequest","status":400}}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"h9GpJDiT5ltcuZ7AAAAL"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"sHcB2Ktc8jFLuCMBAAAM"}}
+{"level":"info","message":"Internal Server Error","meta":{"context":"DEFAULT","error":{"name":"BadRequest","status":400}}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"XmtXSZY_wdOMHXExAAAN"}}
+{"level":"info","message":"Client disconnected","meta":{"context":"DEFAULT","MODULE_NAME":"SOCKET","client":"9v2Y6C6sZBmzCCPSAAAO"}}

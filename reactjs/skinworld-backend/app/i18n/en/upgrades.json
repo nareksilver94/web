@@ -1,0 +1,7 @@
+{
+	"nonExistRecodeId": "User items array have non-existing record id",
+	"recordsOfnotExistSiteItem": "User items array have records of non-existing site item",
+	"itemArrayIsEmpty": "Target item array is empty",
+	"notUpgradeitem": "Can't upgrade to less expensive items",
+	"notProcessUpgrade": "You can't process other one's upgrade"
+}

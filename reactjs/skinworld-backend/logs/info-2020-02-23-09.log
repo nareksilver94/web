@@ -1,0 +1,3 @@
+{"level":"info","message":"Steam logged on","meta":{"context":"DEFAULT","MODULE_NAME":"STEAM","details":{"client_supplied_steamid":"76561198812985971","ip_country_code":"US"}}}
+{"level":"info","message":"Logged in steam account","meta":{"context":"DEFAULT","steamId":{"universe":1,"type":1,"instance":1,"accountid":852720243},"MODULE_NAME":"STEAM"}}
+{"level":"info","message":"Web Session started","meta":{"context":"DEFAULT","MODULE_NAME":"STEAM"}}

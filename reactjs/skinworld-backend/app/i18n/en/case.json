@@ -1,0 +1,18 @@
+{
+	"caseNotExist": "Case does not exist",
+	"caseDisabled": "Case is disabled",
+	"unboxingNotExist": "Unboxing does not exist",
+	"notExitFreeBox": "You don't have free box",
+	"casePriceLow": "Case price should be greater than ${{value}}",
+	"casePriceHigh": "Case price should be less than ${{value}}",
+	"wrongCode": "Wrong code",
+	"openDailyTwice": "You can't open daily case twice in a day",
+	"openMultiFreeBox": "You can't open multiple free boxes",
+	"enoughBalance": "You don't have enough balance to open this case",
+	"requireDeposiedAmount": "User should have deposited $5 at least",
+	"invalidIdArray": "ItemId array is invalid",
+	"totalOdds100": "Total odds should be 100",
+  "caseId": "CaseId is required",
+	"noCaseUpdated": "No case was updated",
+	"invalidOdds": "Case price should be greater than lowest item price"
+}

@@ -1,0 +1,10 @@
+{
+  "serverError": "Server error, try later please",
+  "noEntryChanged": "No db entry was changed",
+  "accessDenied": "Access denied",
+  "notExistDicSession": "Dice session does not exsit",
+  "changeSpeed": "You can only change seed before dice starts",
+  "diceSessionClosed": "Dice Session closed",
+  "diceSessionNotClosed": "Dice Session not closed yet",
+  "notExistDice": "Dice does not exist"
+}
